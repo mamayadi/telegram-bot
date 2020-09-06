@@ -8,7 +8,7 @@ http://t.me/medTradingBot
 *This bot is currently not active*
 
 ### Run on dev environment
-First of all change [.env.example]() to [.env]()
+First of all change [.env.example](https://github.com/mamayadi/telegram-bot/blob/master/.env.example) to [.env](https://github.com/mamayadi/telegram-bot/blob/master/.env)
 ```
 npm i
 npm run start:dev
